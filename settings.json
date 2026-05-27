@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -781,
+    "y": 301,
+    "z": 278
   },
   "utils": {
     "auto-auth": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 150,
       "messages": [
         "I'm a not so regular player",
         "The Big 4s, always on TOP",
